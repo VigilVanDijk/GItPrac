@@ -1,0 +1,54 @@
+annotations in spring - 
+
+@bean annotation
+
+@service
+
+all annotations related to lombok
+
+bean repository
+
+@Autowired
+
+@component
+
+@transaction(only public methods) - makes sure roll backs are done in case of any error or rollback - try to put and post - try to put exceptions in them
+
+builder and mapper - to convert into DTO
+
+MICROSERVICES - ez
+
+Spring events -
+
+annotations - 1) @transactioneventlistener and @eventlistener - sync or however we want two fns to run
+
+
+try to setup db using bean
+			
+
+
+KAFKA - Topic, - has queues, which have partitions and offsets are used to send a message to a particular partition of a queue.
+ 
+	Partition, 
+	
+	offset
+
+
+offset explorer
+read abt kafka, tis only a gui
+
+read abt deadletterqueue(dlq)
+
+
+try unit testing - junit
+		
+
+
+
+
+
+
+
+
+[[],[],[]]
+
